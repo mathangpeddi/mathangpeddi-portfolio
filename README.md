@@ -1,79 +1,84 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
-</div>
 <h1 align="center">
-  brittanychiang.com - v4
+  Mathang Peddi 
 </h1>
-<p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+<p>
+  Welcome to my GitHub! I'm Mathang Peddi, an Aspiring Software Engineer blending the worlds of Software Engineering and Machine Learning, and I'm thrilled to invite you to explore my journey in the enchanting world of technology right here on GitHub! 
 </p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
+
+<p>
+  This is my personal portfolio website <a href="https://mathangpeddi.netlify.app/" target="_blank">mathangpeddi.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
+
 <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/ritesh-manchikanti/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://github.com/mathangpeddi/mathangpeddi-portfolio/blob/master/src/images/portfolio-homepage.png)
 
-## 🚨 Forking this repo (please read!)
+## 🎓 From Foundations to Frontiers: My Engineering Chapter
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+<p align="justify">
+At PES University, my journey through the Bachelor of Technology in Computer Science Engineering program, spanning August 2018 to May 2022, was a blend of rigorous academics and explorative projects. With a notable GPA of 8.5, the curriculum ventured beyond traditional engineering disciplines, embracing areas like Data Structures and Algorithms, Full Stack Development, and Machine Learning. Little did I know, this was just the beginning of my tech adventure!
+</p>
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+## 🏫 Scholarly Expedition: The Georgia State Chronicles
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+<p align="justify">
+Fast forward to today, where I'm on an exhilarating quest for knowledge at Georgia State University, pursuing a Master's in Computer Science. With a stellar GPA of 4.0/4.0, I'm navigating through the realms of Data Science, Big Data Programming, NLP, and more. As a Research Assistant at the Evidence-Based Cybersecurity Lab [EBCS], I'm not just studying; I'm actively contributing to the magic!
+</p>
 
-### TL;DR
+## 💻 Technological Arsenal: Skills and Frameworks Galore
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+<p align="justify">
+Armed with spells like Python, R-Programming, C++, and React, I've woven data magic with Pandas, NumPy, and Scikit-learn. I've danced in the clouds with MySQL, MongoDB, and even summoned the mighty AWS Services. But wait, there's more! I've wielded Tableau, Django, and a bunch of other tools like a tech wizard.
+</p>
 
-## 🛠 Installation & Set Up
+## 🛠️ Professional Odyssey: Navigating the Tech Terrain
 
-1. Install the Gatsby CLI
+<p align="justify">
+My professional narrative weaves through dynamic roles and projects, each enhancing my acumen in technology and innovation:
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+### Evidence Based Cyber Security Research Group | Research Analyst/Data Scientist | Jan 2024 - Present
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+<p align="justify">
+Performed data analysis and created visualizations from multi-modal unstructured data scraped from Telegram channels, utilizing EDA techniques to flag fraudulent admin postings, thereby reducing data breaches. Operated data cleaning and data management techniques to ensure the quality and accuracy of data for analysis.
 
-   ```sh
-   nvm install
-   ```
+### Citrix Systems | Software Engineer | Jan 2022 - Dec 2023
 
-3. Install dependencies
+<p align="justify">
+With a strong foundation in both software engineering and data science, I have consistently delivered impactful solutions by blending advanced technical skills and analytical prowess. My experience spans developing core features such as Activity Manager of Citrix Workspace UI (WSUI) for large-scale applications, optimizing performance, and leveraging machine learning to drive user engagement and business insights.
 
-   ```sh
-   yarn
-   ```
+</p>
 
-4. Start the development server
+## 🚀 Chapter 5: Epilogue: The Future Awaits
+As I continue my journey, I'm on the lookout for exciting roles as a Software Developer/Data Scientist/Data Analyst. If you're on a quest to build powerful data-driven spells, collaborate on enchanting projects, or just share your own tech tales, I'm all ears! Reach out, and let's make the magic happen. Happy coding, and may your code be ever bug-free! ✨
 
-   ```sh
-   npm start
-   ```
+## SKILL SETS:
 
-## 🚀 Building and Running for Production
+**Programming Languages:** Python (Pandas, NumPy, Scikit-learn), R-Programming, JavaScript, C++
 
-1. Generate a full static production build
+**Databases and Cloud:** MySQL, MongoDB, PostgreSQL, AWS Services
 
-   ```sh
-   npm run build
-   ```
+**Tools and Frameworks:** Agile, Bash, Git, Excel, Microsoft Office, Tableau, Django
 
-1. Preview the site as it will appear once deployed
+**Web Dev:** HTML, CSS, TypeScript, SQL, Node JS, React, Bootstrap, Flask
 
-   ```sh
-   npm run serve
-   ```
+**Data Science and Machine learning:** Matplotlib, Seaborn, NLTK, TensorFlow, Keras, Deep Learning (Neural Networks, Transformers, LLMs), NLP
 
-## 🎨 Color Reference
+## For Future Opportunities/ Collaborations, Contact me @
+
+**E-mail:** mathangpeddi@gmail.com
+
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/mathangpeddi/)
+
+**Contact:** +1 (404)-452-7630
+## 🚨 Forking this repo
+
+if you fork this website, Please attribuite it to the <a href="https://brittanychiang.com/" target= "">original Author</a>
+
+<!-- ## 🎨 Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
@@ -84,4 +89,4 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 | Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` | -->
