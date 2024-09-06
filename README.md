@@ -15,7 +15,7 @@
   </a>
 </p>
 
-![demo](https://github.com/mathangpeddi/mathangpeddi-portfolio/blob/master/src/images/portfolio-homepage.png)
+![demo](https://github.com/mathangpeddi/mathangpeddi-portfolio/blob/master/src/images/homepage.png)
 
 ## 🎓 From Foundations to Frontiers: My Engineering Chapter
 
