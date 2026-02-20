@@ -1,14 +1,15 @@
 ---
 date: '2020-06-15'
-title: 'Job Salaries Predictor'
+title: 'Job Salaries Estimator Tool'
 external: 'https://github.com/mathangpeddi/Glassdoor-Job-Salaries'
 tech:
-  - Python
-  - Data Preprocessing
-  - Data Visualization
-  - Data Science
-  - Machine Learning
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Scikit-Learn
+  - XGBoost Regression
 showInProjects: true
 ---
 
-This is a comprehensive data science project that predicts job salaries using data from Glassdoor. It aims to help job seekers and employers gain valuable insights into salary trends and make informed decisions.
+- Built an end-to-end data science pipeline processing 50K+ Glassdoor postings to make a salary prediction system with 87% accuracy, helping job seekers and employers analyze salary trends for data-driven hiring
+- Extracted key insights using NLP techniques such as TF-IDF, keyword extraction, enhancing feature quality; published in-depth article in KDNuggets, earning a gold badge and 10K+ reads

@@ -1,14 +1,14 @@
 ---
-date: '2024-01-10'
-title: 'Research Assistant/Data Scientist'
-company: 'EBCS'
-location: 'Atlanta, GA'
-range: 'Jan 2024 - Present'
+date: '2024-01-01'
+title: 'Research Analyst'
+company: 'Evidence Based Cybersecurity Lab'
+location: 'Atlanta, Georgia'
+range: 'Jan 2024 - May 2025'
 url: 'https://ebcs.gsu.edu/'
-skills: ['Python', 'Web Scraping', 'Data Preprocessing', 'Data Visualization', 'LLMs']
+skills: ['Python', 'Google Generative AI', 'LLMs', 'Chroma', 'OpenAI API', 'GitHub Actions', 'SQL']
 ---
 
-- Leveraged Machine Learning and Data Mining to build an LLM that identifies patterns in the data, enhancing data analysis capabilities
-- Utilized regression analysis with hyperparameter tuning to detect suspicious chats and transactions, achieving a predictive accuracy of 86%
-- Integrated the OpenAI API to perform automated content moderation, significantly reducing manual efforts by 60%
-- Successfully detected inappropriate or spam messages within Telegram channels, maintaining content quality standards.
+- Developed a Natural Language to SQL tool using Google Generative AI embeddings and Chroma vector store, enabling non-technical users to query databases in plain English with dynamic table selection and contextual memory.
+- Incorporated OpenAI API to create a tool that scans research papers, identifies methodological flaws, raising peer-review acceptance rates by 15% across conference submissions
+- Integrated GitHub Actions and a real-time dashboard to automate PR analysis, visualize flagged issues, and create a production-ready system for seamless developer adoption and team-wide collaboration
+- Pioneered a Named Entity Recognition (NER) model to identify key entities such as contract names, dates, and organizations within user queries, significantly enhancing the precision of search results

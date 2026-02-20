@@ -1,14 +1,14 @@
 ---
-date: '2024-05-10'
-title: 'Multi-topic Information Retrieval Chatbot'
-external: 'https://github.com/mathangpeddi/Glassdoor-Job-Salaries'
+date: '2025-01-10'
+title: 'Agentic AI for Dependency Migration'
 tech:
-  - LLM
-  - AWS Lambda
-  - AWS Bedrock
-  - AWS Sagemaker
-  - Chatbot
+  - Neo4j
+  - LLMs
+  - LangGraph
+  - Docker
+  - CI/CD
 showInProjects: true
 ---
 
-Developed an AI Chatbot using Hugging Face LLM Models and deployed it on AWS, enhancing user interactions with advanced NLP capabilities while ensuring scalability and reliability through cloud infrastructure
+- Developed an agentic AI platform that autonomously audits and upgrades module dependencies, utilizing graph-based program analysis and refactoring to reduce vulnerabilities by 40%
+- Implemented a multi-agent pipeline for dependency scanning, automated fixes, unit testing, and pull request generation, scaling across 200+ repositories and achieving a 92% automated merge success rate

@@ -1,15 +1,15 @@
 ---
 date: '2024-02-12'
-title: 'Smart Utility Management System'
-external: 'https://github.com/mathangpeddi/Glassdoor-Job-Salaries'
+title: 'Real-Time Utility Consumption Platform'
 tech:
-  - Next JS
-  - D3 JS
-  - Node JS
-  - Tailwind CSS
-  - MongoDB
-company: 'Northeastern'
+  - Next.js
+  - Node.js
+  - Kafka
+  - Docker
+  - RabbitMQ
+  - AWS
 showInProjects: true
 ---
 
-Built a household utility management system that simplifies service booking for community members, increasing user satisfaction, facilitating seamless arrangements for electricians, plumbers, and other essential service
+- Developed an analytics dashboard using Kafka event streams to track electricity, water, and gas usage, providing consumption insights and predictive billing through dynamic trend visualizations
+- Deployed containerized microservices on Kubernetes with MongoDB persistence, Redis caching and asynchronous message queues, processing 100k+ meter events/min with fault-tolerant rollouts via CI/CD pipelines on AWS

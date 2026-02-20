@@ -1,9 +1,6 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useRef } from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
-import { srConfig } from '@config';
-import sr from '@utils/sr';
-import { usePrefersReducedMotion } from '@hooks';
 
 const StyledAboutSection = styled.section`
   max-width: 900px;
@@ -122,7 +119,6 @@ const StyledPic = styled.div`
 
 const About = () => {
   const revealContainer = useRef(null);
-  const prefersReducedMotion = usePrefersReducedMotion();
 
   // useEffect(() => {
   //   if (prefersReducedMotion) {
@@ -144,14 +140,14 @@ const About = () => {
   // }, []);
 
   const skills = [
-    'JavaScript',
+    'Java',
+    'Spring Boot',
+    'Node.js',
     'React',
-    'SQL',
-    'Python',
-    'Data Science',
-    'Machine Learning',
-    'Natural Language Processing (NLP)',
-    'LLMs',
+    'AWS',
+    'Microservices',
+    'Distributed Systems',
+    'AI/LLMs',
   ];
 
   return (
@@ -162,27 +158,31 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Mathang and I am currently pursuing my Master of Science in Computer
-              Science and working as a Graduate Research Assistant at Georgia State University, I
-              have cultivated a robust skill set in Full Stack Development, Algorithms, Artificial
-              Intelligence, and Machine Learning.
+              Hello! I'm Mathang Peddi, a Software Engineer with 4+ years of experience building
+              scalable systems and AI-driven applications. I recently graduated with a Master's in
+              Computer Science from Georgia State University and currently work at iTradeNetwork,
+              where I develop AI-powered backend systems to automate enterprise workflows.
             </p>
 
             <p>
-              I am a Proficient Software Engineer with 2.5 years of hands-on experience, and I
-              specialize in building scalable applications using React, Next JS, Node JS, MongoDB,
-              and Microservices. Additionally, my expertise in Software Engineering, Data Science,
-              and Cloud Computing makes me confident in my ability to contribute significantly to
-              the team.
+              I specialize in backend and full-stack development, with experience in Java, Spring
+              Boot, Node.js, React, and cloud technologies like AWS. My work spans distributed
+              systems, microservices, and applied AI/LLMs, with a strong focus on building reliable,
+              high-performance systems that operate at scale.
             </p>
 
             <p>
-              In my previous role at Citrix Systems, I played a pivotal role in developing the new
-              user interface for Citrix Workspace(WSUI), enhanced the Activity Manager. Implemented
-              an advanced feature for automating the launching and shutting down of desktops, which
-              introduced a scheduling feature that allowed users to specify times for disconnecting
-              and restarting desktop applications. This solution improved system availability and
-              delivered significant cost savings.
+              Previously, I worked at The Home Depot, Juniper Networks, and Citrix Systems, where I
+              built large-scale data processing systems, developed high-throughput microservices and
+              APIs, and delivered impactful features that improved system performance and served
+              thousands of users. At Citrix, I contributed to core features of the Workspace UI,
+              including the Activity Manager, and implemented scheduling capabilities that optimized
+              resource utilization and reduced infrastructure costs.
+            </p>
+
+            <p>
+              I'm passionate about building scalable, intelligent systems that solve real-world
+              problems and create meaningful impact.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

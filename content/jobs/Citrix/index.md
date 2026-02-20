@@ -1,14 +1,26 @@
 ---
-date: '2022-01-10'
+date: '2022-01-01'
 title: 'Software Engineer'
 company: 'Citrix Systems'
 location: 'Bangalore, India'
-range: 'January 2022 - December 2023'
+range: 'Jan 2022 - Jan 2024'
 url: 'https://citrix.com/'
-skills: ['TypeScript', 'React', 'Node JS', 'React Testing Library', 'CI/CD', 'Jenkins', 'Docker']
+skills:
+  [
+    'Next.js',
+    'Vue.js',
+    'Tailwind CSS',
+    'Node.js',
+    'MongoDB',
+    'MySQL',
+    'Kafka',
+    'React',
+    'Redux Toolkit',
+    'React Query',
+  ]
 ---
 
-- Engineered core features like the Activity Manager and Search Module for Citrix Workspace (WSUI) using React, boosting usability by 20% and enhancing user satisfaction significantly by 40%
-- Reduced WSUI load time to 0.5 seconds using Service Worker and caching, resulting in 80% improvement
-- Transitioned Workspace UI from cloud to on-premise environment (90M users), and established a clear separation between the environments
-- Automated application management in WSUI by adding scheduling for disconnecting, restarting applications, enhancing cost effectiveness by 30% and system availability by 25%
+- Achieved $750K+ in revenue growth by engineering the Activity Manager module- a centralized session monitoring system, incorporated into Citrix Workspace (WSUI), now adopted by 3000+ global customers
+- Implemented a WSUI scheduling feature enabling automated desktop launch, disconnection, and logout, reducing unnecessary cloud VM costs and was awarded First Place at the company-wide hackathon
+- Created production-grade WSUI modules with Next.js, Vue.js, Tailwind CSS, Node.js, MongoDB, MySQL, Kafka, enabling continuous updates, and modular architecture for seamless backend integration
+- Optimized WSUI performance with Redux Toolkit, React Query, memoization, lazy loading, debouncing, service worker, reducing component render time by 50% and improving perceived page load speed to 0.5s (80% faster)
